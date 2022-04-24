@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>749584395917-1li2bieiqt4vdvrqfvb40nmeoaps86vv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.749584395917-1li2bieiqt4vdvrqfvb40nmeoaps86vv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDtLea_zBh9xCaEq79nXk4ojMKnk451iGg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>749584395917</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.abdullah.UOapp</string>
+	<key>PROJECT_ID</key>
+	<string>athkarapp-5e51e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>athkarapp-5e51e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:749584395917:ios:f9b1b9f2d6e121a5643cc4</string>
+	<key>DATABASE_URL</key>
+	<string>https://athkarapp-5e51e-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
